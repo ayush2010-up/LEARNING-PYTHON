@@ -37,4 +37,4 @@ print("and operator",vlu1 and vlu2)
 print("or operator",vlu1 or vlu2)
 print((a==b) or (a>b))
 
-
+#hai
